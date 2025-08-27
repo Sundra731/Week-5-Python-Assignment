@@ -48,7 +48,7 @@ print(phone2)
 print(phone2.take_photo())
 print(phone2.call("Bob"))  # polymorphism
 
-#QUESTION 2
+#QUESTION 2 (Polymorphism)
 class Car:
   def __init__(self, brand, model):
     self.brand = brand
